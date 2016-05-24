@@ -1,0 +1,1 @@
+qsub -e /path/to/log/dir -e /path/to/log/dir -S /bin/bash cmd.sh
